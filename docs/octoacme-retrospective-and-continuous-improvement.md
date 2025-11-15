@@ -13,13 +13,18 @@ After each sprint, release, or important milestone. Also after incidents.
 - Follow-up on previous action items
 
 ## Running a Retrospective
+- Facilitated by Scrum Master or Project Manager
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Ensure psychological safety and blameless culture
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
+- Scrum Master tracks and follows up on retrospective action items
 - Review outstanding actions in the weekly PM sync
+
+For more on role responsibilities in continuous improvement, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Example Action Item Template
 - Title:
