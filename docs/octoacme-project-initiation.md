@@ -21,20 +21,26 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Project One-pager Template
 - Project name:
-- Problem statement:
+- Problem statement: (work with Business Analyst to clarify business requirements)
 - Objective / Goal (SMART):
 - Success metrics:
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: (consider needs for PM, PdM, Developers, QA, Scrum Master, Technical Writer, UX/UI Designer, Business Analyst, Release Manager)
+- Documentation needs: (coordinate with Technical Writer for project docs)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Business requirements gathered and validated (involve Business Analyst)
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] UX/UI considerations identified (if user-facing features)
+- [ ] Documentation strategy defined (coordinate with Technical Writer)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+For detailed role responsibilities during initiation, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Decision Gate
 Move to planning when:

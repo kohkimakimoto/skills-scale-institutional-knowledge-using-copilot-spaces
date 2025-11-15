@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Scrum Master: facilitates Agile ceremonies, removes blockers, and coaches team on practices.
+- Technical Writer: creates and maintains documentation for onboarding, knowledge sharing, and customer success.
+- UX/UI Designer: designs user interfaces and conducts user research to ensure usability and accessibility.
+- Business Analyst: bridges business needs and technical solutions, gathers and validates requirements.
+- Release Manager: coordinates release schedules, quality gates, and deployment processes.
 - Stakeholders: provide inputs and approvals.
+
+For detailed persona definitions, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md). These expanded roles address gaps identified in [issue #4](https://github.com/kohkimakimoto/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4).
 
 ## Key Artifacts
 - Project Charter / One-pager

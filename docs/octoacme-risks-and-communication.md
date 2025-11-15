@@ -39,4 +39,11 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
+- Technical blockers: Scrum Master coordinates with Developers and PM
+- Requirements clarification: Business Analyst bridges stakeholders and technical teams
+- Release issues: Release Manager coordinates with QA, Developers, and PM
+- Documentation gaps: Technical Writer collaborates with subject matter experts
+- Design concerns: UX/UI Designer works with Product Manager and Developers
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+For detailed interaction patterns between roles, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
